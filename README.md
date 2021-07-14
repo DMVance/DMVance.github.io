@@ -9,9 +9,10 @@ https://dmvance.github.io/
 
 
 ### Technologies and Languages
-* Python
+* Python, Plotly, pandas
+* Machine learning: Scikit-learn, NLTK, TensorFlow and Keras
 * SQL
-* JavaScript
+* JavaScript, D3
 * HTML, CSS
 * Flask
 * Jupyter Lab
