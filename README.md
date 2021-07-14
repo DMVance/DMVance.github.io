@@ -6,4 +6,15 @@ https://dmvance.github.io/
 * News Sentiment Analysis
 * PuppyFinder
 * USS Russell
-* 
+
+
+### Technologies and Languages
+* Python
+* SQL
+* JavaScript
+* HTML, CSS
+* Flask
+* Jupyter Lab
+* Heroku
+* JSON
+* Postman
