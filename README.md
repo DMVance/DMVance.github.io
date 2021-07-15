@@ -19,3 +19,13 @@ https://dmvance.github.io/
 * Heroku
 * JSON
 * Postman
+
+### Features
+* Daily Quotes
+* Affiliated Links
+* Visitor Counter
+* Clock
+* Calculators - Basic, Investment, 
+* Interactive Plots, market charts - stocks, real estate, commodities, industries and businesses
+* Blog with analysis and commentary
+* 
