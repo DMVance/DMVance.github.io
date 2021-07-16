@@ -28,4 +28,4 @@ https://dmvance.github.io/
 * Calculators - Basic, Investment, 
 * Interactive Plots, market charts - stocks, real estate, commodities, industries and businesses
 * Blog with analysis and commentary
-* 
+* Interests - Investing, 
