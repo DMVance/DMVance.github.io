@@ -29,3 +29,6 @@ https://dmvance.github.io/
 * Interactive Plots, market charts - stocks, real estate, commodities, industries and businesses
 * Blog with analysis and commentary
 * Interests - Investing, 
+* Digital City
+* adVance - advertisements page
+

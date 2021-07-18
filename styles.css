@@ -28,6 +28,12 @@ img {
     width: 500px;
     height: 500px;
 }
+body {
+    background-image: url("./images/AI_1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
 #thumbnail {
 box-shadow: 0 10px 20px rgba(0,0,0,0.25), 0 6px 6px rgba(0,0,0,0.4);
 }
