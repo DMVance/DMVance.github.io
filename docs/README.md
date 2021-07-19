@@ -1,5 +1,7 @@
 https://dmvance.github.io/
 
+## { THIS SITE IS UNDER CONSTRUCTION }
+
 ### Projects
 * Lord of the Rings Natural Language Processing (NLP)
 * Letter Naming Fluency Probe
@@ -30,5 +32,5 @@ https://dmvance.github.io/
 * Blog with analysis and commentary
 * Interests - Investing, 
 * Digital City
-* adVance - advertisements page
+* adVance or ADvance - advertisements page
 
