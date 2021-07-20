@@ -1,6 +1,6 @@
 https://dmvance.github.io/
 
-## { THIS SITE IS UNDER CONSTRUCTION }
+## **{ THIS SITE IS UNDER CONSTRUCTION }**
 
 ### Projects
 * Lord of the Rings Natural Language Processing (NLP)
@@ -33,4 +33,5 @@ https://dmvance.github.io/
 * Interests - Investing, 
 * Digital City
 * adVance or ADvance - advertisements page
+* Rising sun effect in background image
 
