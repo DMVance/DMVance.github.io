@@ -8,6 +8,15 @@ https://dmvance.github.io/
 * News Sentiment Analysis
 * PuppyFinder
 * USS Russell
+* 
+
+### New Project Ideas
+* Investment analysis
+* NOI growth calculator > maximizing revenue + decreasing expenses + time = max value
+    * Find companies under $10B market cap
+* Housing price prediction
+* Raspberry Pi
+* Educational curriculum for specific topics, especially for home-study
 
 
 ### Technologies and Languages
