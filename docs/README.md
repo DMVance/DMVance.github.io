@@ -44,4 +44,5 @@ https://dmvance.github.io/
 * Blog with analysis and commentary
 * Interests - Investing, 
 * adVance or ADvance - advertisements page
+* Replace background picture with simple color, add sketch or image of mentors (CSL, JRRT, Buffett, Einstein, etc.)
 

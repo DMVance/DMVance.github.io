@@ -1,0 +1,11 @@
+Pseudocode
+
+Daily Quotes
+    Database of quotes that can be continually expanded (MongoDB?)
+    Simple dictionary
+    Randomly select a quote.
+    Display for 24 hours.
+    Remove quote from random selection until all quotes have been used.
+    Return all quotes to random selector to start over.
+    Quote should be unavailable for same number of days as there are quotes, so it is a rolling period.
+    
