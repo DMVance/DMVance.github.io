@@ -15,8 +15,10 @@ https://dmvance.github.io/
 * NOI growth calculator > maximizing revenue + decreasing expenses + time = max value
     * Find companies under $10B market cap
 * Housing price prediction
+* Analyze data regarding migration into US geographic areas
 * Raspberry Pi
 * Educational curriculum for specific topics, especially for home-study
+* Webscrape Quora and use NLP to understand the themes of questions asked and what people need most
 
 
 ### Technologies and Languages
@@ -33,6 +35,7 @@ https://dmvance.github.io/
 
 ### Features
 * Daily Quotes
+* Comments Section
 * Affiliated Links
 * Visitor Counter
 * Clock
@@ -40,7 +43,5 @@ https://dmvance.github.io/
 * Interactive Plots, market charts - stocks, real estate, commodities, industries and businesses
 * Blog with analysis and commentary
 * Interests - Investing, 
-* Digital City
 * adVance or ADvance - advertisements page
-* Rising sun effect in background image
 
