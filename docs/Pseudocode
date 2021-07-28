@@ -8,4 +8,12 @@ Daily Quotes
     Remove quote from random selection until all quotes have been used.
     Return all quotes to random selector to start over.
     Quote should be unavailable for same number of days as there are quotes, so it is a rolling period.
-    
+    Add comments section for people to leave thoughts on each quote.
+
+    quote_bank = {
+        1: "The price of anything is the amount of life you exchange for it. -Henry David Thoreau"
+        2: "You can't go back and change the beginning, but you can start where you are and change the ending. -C.S. Lewis"
+        3: "Humility is not thinking less of yourself, it's thinking of yourself less. -C.S. Lewis"
+        4: "Hardship often prepares an ordinary person for an extraordinary destiny. -C.S. Lewis"
+        5: "Not all those who wander are lost. -J.R.R. Tolkien"
+    }
