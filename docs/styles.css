@@ -1,15 +1,24 @@
 /* set styling parameters to be used in each of the pages */
 
+/* * { 
+    border: 2px solid red;
+} */
+
+html {
+    scroll-behavior: smooth;
+  }
+  
 h1 {
     text-align: left;
     font-size: 20px;
-    color: rgb(51, 61, 71);
+    color: #2ecc71;
+    /* color: rgb(51, 61, 71); */
     padding: 5px;
     text-transform: capitalize;
 }
-h1:hover {
+/* h1:hover {
   color: red;
-}
+} */
 h2 {
     text-align: left;
     font-size: 35px;
