@@ -1,5 +1,7 @@
 https://dmvance.github.io/
 
+[![Known Vulnerabilities](https://snyk.io/test/npm/jquery/3.6.0/badge.svg)](https://snyk.io/test/npm/jquery/3.6.0)
+
 ## **{ THIS SITE IS UNDER CONSTRUCTION }**
 
 ### Projects
